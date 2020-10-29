@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+<img src="https://github.com/saummya-arch/Clip-Crop-App/blob/master/clip/pic1.jpg" width=400 height=700>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
